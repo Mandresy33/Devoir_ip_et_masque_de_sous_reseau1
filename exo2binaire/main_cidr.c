@@ -1,4 +1,4 @@
-#include "bin.h"
+#include "notationcidr.h"
  int main()
  {
     recupere();
